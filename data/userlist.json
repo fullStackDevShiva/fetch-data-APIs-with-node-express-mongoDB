@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "_id": {
+        "$oid": "660996a1f9e3b8e78b5b3a7f"
+      },
+      "name": "John",
+      "email": "john@gmail.com"
+    },
+    {
+      "_id": {
+        "$oid": "660996ebf9e3b8e78b5b3a80"
+      },
+      "name": "Peter",
+      "email": "peter@gmail.com"
+    },
+    {
+      "_id": {
+        "$oid": "6609971bf9e3b8e78b5b3a81"
+      },
+      "name": "Richa",
+      "email": "richa@gmail.com"
+    }
+  ]
+}

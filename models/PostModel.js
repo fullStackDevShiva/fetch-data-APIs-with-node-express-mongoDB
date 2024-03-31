@@ -22,7 +22,7 @@ const postModel = mongoose.Schema(
       },
     ],
     reactions: {
-      type: Boolean,
+      type: Number,
       required: false,
     },
   },
